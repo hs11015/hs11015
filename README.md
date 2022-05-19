@@ -26,12 +26,5 @@ Here are some ideas to get you started:
 - I'm Uploading my projects what I did for recording
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hs11015&hide=prs,issues,contribs&show_icons=true&theme=github_dark)
-
 <br>
 - I'm studying Python, C, Web, Java
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs11015&langs_count=8)](https://github.com/hs11015/github-readme-stats)
-
-
-
